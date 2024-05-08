@@ -1,4 +1,4 @@
-module github.com/agnivade/levenshtein
+module github.com/ASTROLAB-OSU/optimized_levenshtein
 
 go 1.13
 
